@@ -17,7 +17,7 @@ Customer and company records are organized with invoice counts and outstanding b
 ### Client Account Workflow
 The client profile brings together outstanding balance, invoice history, payment receipts, status changes, duplication/editing actions, and statement generation in one operational view.
 
-![Invoice App Client Profile](assets/invoice-app-client-profile.png)
+![Invoice App Client Profile](assets/invoice-app-client-profile.svg)
 
 ### Invoice Creation Workflow
 The invoice workflow supports customer details, payment methods, VAT, discounts, paid amounts, bilingual service descriptions, and live totals.
