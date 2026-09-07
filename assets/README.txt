@@ -1,0 +1,1 @@
+Invoice App showcase screenshots are generated from the project's real UI structure using sanitized demo data only. No production database, client records, credentials, signatures, or stamps are included.
