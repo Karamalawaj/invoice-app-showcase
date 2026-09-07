@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900">
+  <rect width="1400" height="900" fill="#f6f7f9"/>
+  <rect width="1400" height="72" fill="#111827"/>
+  <text x="70" y="46" font-family="Arial" font-size="24" font-weight="700" fill="#fff">Invoice &amp; Operations System — Demo Workspace</text>
+  <rect x="70" y="100" rx="10" width="150" height="42" fill="#fff" stroke="#d1d5db"/>
+  <text x="95" y="128" font-family="Arial" font-size="16" fill="#333">← Back to clients</text>
+  <rect x="1170" y="100" rx="10" width="160" height="42" fill="#fff" stroke="#efb2ad"/>
+  <text x="1200" y="128" font-family="Arial" font-size="16" fill="#b42318">Delete company</text>
+  <rect x="70" y="165" rx="16" width="1260" height="245" fill="#fff" stroke="#c49a3a"/>
+  <text x="110" y="220" font-family="Arial" font-size="31" font-weight="700" fill="#b78a2e">Demo Trading LLC</text>
+  <rect x="370" y="192" rx="14" width="75" height="30" fill="#2563eb"/>
+  <text x="392" y="213" font-family="Arial" font-size="14" fill="#fff">Company</text>
+  <text x="110" y="260" font-family="Arial" font-size="17" fill="#6b7280">Phone: 050 000 0000</text>
+  <rect x="110" y="285" rx="10" width="320" height="72" fill="#fff7ed" stroke="#fed7aa"/>
+  <text x="130" y="315" font-family="Arial" font-size="16" fill="#444">Outstanding balance</text>
+  <text x="130" y="345" font-family="Arial" font-size="25" font-weight="700" fill="#b42318">1,250 AED</text>
+  <rect x="850" y="205" rx="9" width="420" height="48" fill="#b78a2e"/>
+  <text x="980" y="236" font-family="Arial" font-size="17" font-weight="700" fill="#fff">Create New Invoice +</text>
+  <rect x="850" y="270" rx="9" width="420" height="48" fill="#15803d"/>
+  <text x="975" y="301" font-family="Arial" font-size="17" font-weight="700" fill="#fff">Record Payment Receipt</text>
+  <rect x="850" y="335" rx="9" width="420" height="50" fill="#f8fafc" stroke="#e5e7eb"/>
+  <text x="875" y="366" font-family="Arial" font-size="15" fill="#555">Statement range: 01/09/2026 → 30/09/2026</text>
+  <rect x="70" y="440" rx="16" width="1260" height="380" fill="#fff"/>
+  <text x="110" y="490" font-family="Arial" font-size="24" font-weight="700" fill="#222">Invoice History</text>
+  <rect x="105" y="515" width="1190" height="48" fill="#f8fafc"/>
+  <g font-family="Arial" font-size="15" font-weight="700" fill="#333">
+    <text x="130" y="546">Invoice</text><text x="350" y="546">Date</text><text x="560" y="546">Total</text><text x="760" y="546">Status</text><text x="980" y="546">Actions</text>
+  </g>
+  <line x1="105" y1="563" x2="1295" y2="563" stroke="#e5e7eb"/>
+  <g font-family="Arial" font-size="16" fill="#222">
+    <text x="130" y="610" font-weight="700">DEMO-40007</text><text x="350" y="610">07/09/2026</text><text x="560" y="610">1,750 AED</text>
+  </g>
+  <rect x="745" y="584" rx="12" width="110" height="30" fill="#fde68a"/><text x="770" y="605" font-family="Arial" font-size="14" fill="#6b4f00">Unpaid</text>
+  <rect x="960" y="580" rx="7" width="72" height="34" fill="#fff" stroke="#d1d5db"/><text x="978" y="602" font-family="Arial" font-size="13">View</text>
+  <rect x="1042" y="580" rx="7" width="72" height="34" fill="#fff" stroke="#d1d5db"/><text x="1061" y="602" font-family="Arial" font-size="13">Edit</text>
+  <rect x="1124" y="580" rx="7" width="92" height="34" fill="#fff" stroke="#d1d5db"/><text x="1140" y="602" font-family="Arial" font-size="13">Duplicate</text>
+  <line x1="105" y1="635" x2="1295" y2="635" stroke="#e5e7eb"/>
+  <g font-family="Arial" font-size="16" fill="#222"><text x="130" y="682" font-weight="700">REC-1003</text><text x="350" y="682">06/09/2026</text><text x="560" y="682" fill="#15803d" font-weight="700">-500 AED</text></g>
+  <rect x="745" y="656" rx="12" width="150" height="30" fill="#dcfce7"/><text x="768" y="677" font-family="Arial" font-size="14" fill="#166534">Payment received</text>
+  <rect x="960" y="652" rx="7" width="72" height="34" fill="#fff" stroke="#d1d5db"/><text x="978" y="674" font-family="Arial" font-size="13">View</text>
+  <rect x="1042" y="652" rx="7" width="72" height="34" fill="#fff" stroke="#d1d5db"/><text x="1061" y="674" font-family="Arial" font-size="13">Edit</text>
+  <line x1="105" y1="707" x2="1295" y2="707" stroke="#e5e7eb"/>
+  <g font-family="Arial" font-size="16" fill="#222"><text x="130" y="754" font-weight="700">DEMO-40006</text><text x="350" y="754">02/09/2026</text><text x="560" y="754">2,400 AED</text></g>
+  <rect x="745" y="728" rx="12" width="100" height="30" fill="#bbf7d0"/><text x="773" y="749" font-family="Arial" font-size="14" fill="#166534">Paid</text>
+  <text x="70" y="865" font-family="Arial" font-size="14" fill="#6b7280">Portfolio-safe preview based on the real client profile workflow. Demo data only.</text>
+</svg>
